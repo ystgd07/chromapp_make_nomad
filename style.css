@@ -1,11 +1,7 @@
 *{
-    background-color: bisque;
+    margin: 0;
+    padding: 0;
 }
-h1{
-    color: blue;
-    transition: color .5s ease-in-out;
-}
-
-.active{
-    color: tomato;
+.hidden{
+    display: none;
 }
